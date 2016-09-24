@@ -1,0 +1,39 @@
+.tk-colaborate {
+	font-family: "colaborate", sans-serif;
+}
+
+.tk-league-gothic {
+	font-family:"league-gothic",sans-serif;}
+
+.tk-museo-slab {
+	font-family:"museo-slab",serif;}
+
+.tk-lobster{font-family:"lobster",serif;}
+
+.tk-bebas-neue{font-family:"bebas-neue",sans-serif;}
+
+.tk-ff-tisa-sans-web-pro{font-family:"ff-tisa-sans-web-pro",sans-serif;}.tk-source-sans-pro{font-family:"source-sans-pro",sans-serif;}
+
+@font-face {
+	font-family: colaborate;
+	src: url(https://fonts.typekit.net/af/69d8ec/00000000000000000000d6d5/23/l?subset_id=1&fvd=n4) 
+	format("woff2");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face{font-family:colaborate;src:url(https://fonts.typekit.net/af/32eadc/00000000000000000000d6d6/23/l?subset_id=1&fvd=n2) format("woff2");font-weight:200;font-style:normal;}@font-face{font-family:colaborate;src:url(https://fonts.typekit.net/af/3c0fb6/00000000000000000000d6d9/23/l?subset_id=1&fvd=n7) format("woff2");font-weight:700;font-style:normal;}@font-face{font-family:league-gothic;src:url(https://fonts.typekit.net/af/0fff36/000000000000000000014689/23/l?subset_id=1&fvd=n4) format("woff2");font-weight:400;font-style:normal;}@font-face{font-family:league-gothic;src:url(https://fonts.typekit.net/af/706ea0/00000000000000000001468a/23/l?subset_id=1&fvd=i4) format("woff2");font-weight:400;font-style:italic;}@font-face{font-family:museo-slab;src:url(https://fonts.typekit.net/af/707d90/00000000000000000000ec0f/23/l?subset_id=2&fvd=n1) format("woff2");font-weight:100;font-style:normal;}@font-face{font-family:museo-slab;src:url(https://fonts.typekit.net/af/6da097/000000000000000000012043/23/l?subset_id=2&fvd=n5) format("woff2");font-weight:500;font-style:normal;}@font-face{font-family:lobster;src:url(https://fonts.typekit.net/af/ae64cb/000000000000000000012224/23/l?subset_id=1&fvd=n4) format("woff2");font-weight:400;font-style:normal;}@font-face{font-family:bebas-neue;src:url(https://fonts.typekit.net/af/566250/0000000000000000000149c5/23/l?subset_id=1&fvd=n4) format("woff2");font-weight:400;font-style:normal;}@font-face{font-family:ff-tisa-sans-web-pro;src:url(https://fonts.typekit.net/af/15b4e3/000000000000000000014577/23/l?subset_id=2&fvd=n7) format("woff2");font-weight:700;font-style:normal;}@font-face{font-family:ff-tisa-sans-web-pro;src:url(https://fonts.typekit.net/af/77ff49/000000000000000000014578/23/l?subset_id=2&fvd=i7) format("woff2");font-weight:700;font-style:italic;}@font-face{font-family:ff-tisa-sans-web-pro;src:url(https://fonts.typekit.net/af/873c45/00000000000000000001457b/23/l?subset_id=2&fvd=i4) format("woff2");font-weight:400;font-style:italic;}@font-face{font-family:ff-tisa-sans-web-pro;src:url(https://fonts.typekit.net/af/9ba1b7/000000000000000000014582/23/l?subset_id=2&fvd=n4) format("woff2");font-weight:400;font-style:normal;}@font-face{font-family:source-sans-pro;src:url(https://fonts.typekit.net/af/858f7b/000000000000000000014fb5/23/l?subset_id=2&fvd=n4) format("woff2");font-weight:400;font-style:normal;}@font-face{font-family:source-sans-pro;src:url(https://fonts.typekit.net/af/12bf11/000000000000000000014fb9/23/l?subset_id=2&fvd=n7) format("woff2");font-weight:700;font-style:normal;}@font-face{font-family:source-sans-pro;src:url(https://fonts.typekit.net/af/6c2c58/000000000000000000014fb6/23/l?subset_id=2&fvd=i4) format("woff2");font-weight:400;font-style:italic;}@font-face{font-family:source-sans-pro;src:url(https://fonts.typekit.net/af/70387c/000000000000000000014fb3/23/l?subset_id=2&fvd=n3) format("woff2");font-weight:300;font-style:normal;}@font-face{font-family:source-sans-pro;src:url(https://fonts.typekit.net/af/a0c442/000000000000000000014fb7/23/l?subset_id=2&fvd=n6) format("woff2");font-weight:600;font-style:normal;}@font-face{font-family:source-sans-pro;src:url(https://fonts.typekit.net/af/94135b/000000000000000000014fb1/23/l?subset_id=2&fvd=n2) format("woff2");font-weight:200;font-style:normal;}@font-face{font-family:source-sans-pro;src:url(https://fonts.typekit.net/af/d1cc7e/000000000000000000014fb2/23/l?subset_id=2&fvd=i2) format("woff2");font-weight:200;font-style:italic;}
+
+
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
