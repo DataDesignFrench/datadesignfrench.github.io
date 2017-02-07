@@ -1035,6 +1035,7 @@ div.navbar p a {
     padding: 0 30px 50px; }
 
   .navigation {
+    z-index: 99;
     position: absolute;
     bottom: 0;
     left: 0;
