@@ -14,7 +14,7 @@ document.write('\
             <a href="Title.html">Mode d&#39;emploi de cet ouvrage</a>\
             <ol>\
               <li data-type="copyright-page">\
-                <a href="License-French.html">License</a>\
+                <a href="License-French.html">Licence</a>\
               </li>\
               <li data-type="preface">\
                 <a href="Preface-French.html">Pr&eacute;face</a>\
@@ -23,7 +23,7 @@ document.write('\
                 <a href="Foreword-French.html">Avant-propos</a>\
               </li>\
               <li data-type="introduction">\
-                <a href="HowToUse-French.html">How to Use This Book</a>\
+                <a href="HowToUse-French.html">Mode d&#39;emploi de cet ouvrage</a>\
               </li>\
             </ol>\
           </li>\
@@ -47,7 +47,7 @@ document.write('\
                 <a href="SurveyDesign-French.html">Introduction au design de sondages</a>\
               </li>\
               <li data-type="chapter">\
-                <a href="SurveyQuestions-French.html">Types de Questions pour Sondages</a>\
+                <a href="SurveyQuestions-French.html">Types de questions pour sondages</a>\
               </li>\
               <li data-type="chapter">\
                 <a href="CollectionMethods-French.html">M&eacute;thodes suppl&eacute;mentaires de collecte de donn&eacute;es</a>\
