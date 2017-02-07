@@ -35,7 +35,7 @@ document.write('\
                 <a href="DataTypes-French.html">Les types de donn&eacute;es</a>\
               </li>\
               <li data-type="chapter">\
-                <a href="Aggregation-French.html">Agr&eacute;ger Les Donn&eacute;es</a>\
+                <a href="Aggregation-French.html">Agr&eacute;ger les donn&eacute;es</a>\
               </li>\
             </ol>\
           </li>\
