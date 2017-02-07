@@ -130,15 +130,4 @@ document.write('\
         </ol>\
       </nav>\
     </div>\
-\
-    <div class="navigation">\
-      <ul>\
-        <li id="next_page">\
-          <a href="DataFundamentals-French.html">Next</a>\
-        </li>\
-        <li id="previous_page">\
-          <a href="Aggregation-French.html">Previous</a>\
-        </li>\
-      </ul>\
-    </div>\
 ');
