@@ -1,16 +1,3 @@
-// document.write('\
-// \
-//     <h1>Add your HTML code here</h1>\
-// \
-//      <p>Notice however, that you have to escape LF's with a '\', just like\
-//         demonstrated in this code listing.\
-//     </p>\
-// \
-// ');
-
-alert("load new content");
-console.log("HEEEEEEEEY");
-document.open();
 document.write('\
   <head>\
     <meta charset="UTF-8">\
@@ -30,8 +17,6 @@ document.write('\
     <script src="../js/data-design.js" type="text/javascript"> </script>\
   </head>\
 ');
-
-document.close();
 
 
 
