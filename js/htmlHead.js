@@ -8,7 +8,7 @@ document.write('\
     <meta name="description" content="A simple introduction to preparing and visualizing information">\
     <meta name="keywords" content="data visualization, infographics, dataviz">\
 \
-    <!-- <link rel="shortcut icon" type="image/png" href="../images/favicon.png" type="image/x-icon"> -->\
+    <!-- <link rel="shortcut icon" type="image/png" href="favicon.png"> -->\
     <!-- <link rel="stylesheet" href="//fonts.googleapis.com/css?family=font1|font2|etc" type="text/css"> -->\
     <link rel="stylesheet" type="text/css" href="../theme/html/html.css">\
 \
