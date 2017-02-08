@@ -3,7 +3,7 @@ document.write('\
     <meta charset="UTF-8">\
     <meta name="viewport" content="width=device-width,initial-scale=1">\
 \
-    <title>Donn&Eacute;es + Design</title>\
+    <title>Donn&eacute;es + Design</title>\
     <meta name="author" content="An international group of fabulous volunteers">\
     <meta name="description" content="A simple introduction to preparing and visualizing information">\
     <meta name="keywords" content="data visualization, infographics, dataviz">\
