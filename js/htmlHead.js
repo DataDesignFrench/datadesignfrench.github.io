@@ -3,12 +3,12 @@ document.write('\
     <meta charset="UTF-8">\
     <meta name="viewport" content="width=device-width,initial-scale=1">\
 \
-    <title>Data + Design</title>\
-    <meta name="author" content="name">\
+    <title>Donn&Eacute;es + Design</title>\
+    <meta name="author" content="An international group of fabulous volunteers">\
     <meta name="description" content="A simple introduction to preparing and visualizing information">\
     <meta name="keywords" content="data visualization, infographics, dataviz">\
 \
-    <!-- <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon"> -->\
+    <!-- <link rel="shortcut icon" href="images/favicon.png" type="image/vnd.microsoft.icon"> -->\
     <!-- <link rel="stylesheet" href="//fonts.googleapis.com/css?family=font1|font2|etc" type="text/css"> -->\
     <link rel="stylesheet" type="text/css" href="../theme/html/html.css">\
 \
