@@ -993,6 +993,10 @@ div.navbar p a {
         -moz-transition: opacity, 0.3s, ease-in-out;
         transition: opacity, 0.3s, ease-in-out; }
 
+  .navigation .light-on-dark ul li a {
+    color: white;
+  }
+
   .navigation ul li:nth-child(1) {
     left: 30px; }
     .navigation ul li:nth-child(1) a {
@@ -1002,7 +1006,7 @@ div.navbar p a {
   .navigation ul li:nth-child(2) {
     right: 30px; }
     .navigation ul li:nth-child(2) a {
-      padding-right: 30px;
+      padding-right: 82px;
       background: url("../../images/shared-icons/next.png") right no-repeat;
       @retina-image('../../images/shared-icons/next', 18px 24px, png, null, @2x); }
 
