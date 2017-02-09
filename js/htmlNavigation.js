@@ -4,14 +4,14 @@ document.write('\
     <div class="navbar">\
       <div class="title">\
         <span class="btn close">Close</span>\
-        <h1>Donn&Eacute;es + Design</h1>\
+        <h1>Donn&Eacute;es+Design</h1>\
         <h2>Une introduction simple &agrave; la pr&eacute;paration et &agrave; la visualisation de l&#39;information</h2>\
       </div>\
 \
       <nav data-type="toc">\
         <ol>\
           <li data-type="part">\
-            <a href="Title.html">Mode d&#39;emploi de cet ouvrage</a>\
+            <a href="index.html">Mode d&#39;emploi de cet ouvrage</a>\
             <ol>\
               <li data-type="copyright-page">\
                 <a href="License-French.html">Licence</a>\
