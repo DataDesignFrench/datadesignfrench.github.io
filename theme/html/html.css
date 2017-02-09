@@ -993,12 +993,6 @@ div.navbar p a {
         -moz-transition: opacity, 0.3s, ease-in-out;
         transition: opacity, 0.3s, ease-in-out; }
 
-  .navigation .light-on-dark ul li a {
-    color: white;
-    background: url("../../images/shared-icons/next-white.png") right no-repeat;
-      @retina-image('../../images/shared-icons/next-white', 18px 24px);
-  }
-
   .navigation ul li:nth-child(1) {
     left: 30px; }
     .navigation ul li:nth-child(1) a {
@@ -1011,6 +1005,13 @@ div.navbar p a {
       padding-right: 82px;
       background: url("../../images/shared-icons/next.png") right no-repeat;
       @retina-image('../../images/shared-icons/next', 18px 24px, png, null, @2x); }
+
+  li#index_next_page a {
+    color: white;
+    padding-right: 82px;
+    background: url(../../images/shared-icons/next-white.png) right no-repeat;
+    @retina-image('../../images/shared-icons/next-white', 18px 24px, png, null, @2x);
+  }
 
 @media screen and (min-width: 480px) and (max-width: 1024px) {
   section[data-type="chapter"] {
