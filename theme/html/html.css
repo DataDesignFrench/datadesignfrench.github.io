@@ -1006,7 +1006,7 @@ div.navbar p a {
       background: url("../../images/shared-icons/next.png") right no-repeat;
       @retina-image('../../images/shared-icons/next', 18px 24px, png, null, @2x); }
 
-  .index-next-page-link li a {
+  .light-on-dark-navbar ul li a {
     color: white;
     padding-right: 82px;
     background: url(../../images/shared-icons/next-white.png) right no-repeat;
